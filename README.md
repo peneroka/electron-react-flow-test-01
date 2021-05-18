@@ -1,3 +1,7 @@
+learning note:
+[1](https://medium.com/@devesu/how-to-build-a-react-based-electron-app-d0f27413f17f)
+----------------------------
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
