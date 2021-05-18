@@ -1,0 +1,77 @@
+{
+    "elements": [
+        {
+            "id": "1",
+            "type": "input",
+            "data": {
+                "label": "input node"
+            },
+            "position": {
+                "x": 220,
+                "y": -1.999999999999993
+            }
+        },
+        {
+            "id": "dndnode_1621067665957",
+            "type": "custom01",
+            "position": {
+                "x": 384,
+                "y": 54.999999999999986
+            },
+            "data": {
+                "label": "custom01 node"
+            }
+        },
+        {
+            "id": "dndnode_1621067673424",
+            "type": "output",
+            "position": {
+                "x": 409,
+                "y": 266
+            },
+            "data": {
+                "label": "output node"
+            }
+        },
+        {
+            "id": "dndnode_1621067678537",
+            "type": "output",
+            "position": {
+                "x": 527,
+                "y": 128
+            },
+            "data": {
+                "label": "output node"
+            }
+        },
+        {
+            "source": "1",
+            "sourceHandle": null,
+            "target": "dndnode_1621067665957",
+            "targetHandle": "input01",
+            "id": "reactflow__edge-1null-dndnode_1621067665957input01",
+            "type": "default"
+        },
+        {
+            "source": "dndnode_1621067665957",
+            "sourceHandle": "output01",
+            "target": "dndnode_1621067678537",
+            "targetHandle": null,
+            "id": "reactflow__edge-dndnode_1621067665957output01-dndnode_1621067678537null",
+            "type": "default"
+        },
+        {
+            "source": "dndnode_1621067665957",
+            "sourceHandle": "output02",
+            "target": "dndnode_1621067673424",
+            "targetHandle": null,
+            "id": "reactflow__edge-dndnode_1621067665957output02-dndnode_1621067673424null",
+            "type": "default"
+        }
+    ],
+    "position": [
+        -172.41977715333655,
+        94.69524675044477
+    ],
+    "zoom": 1.1486983549970349
+}

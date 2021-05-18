@@ -1,0 +1,22 @@
+.symbolContainerA {
+    width: 100px;
+    height: 60px;
+    /* background-image: url('./custom01.PNG'); */
+    background-repeat: no-repeat;
+    background-color: #1a81e1;
+};
+
+.symbolContainerB {
+    width: 100px;
+    height: 60px;
+    /* background-image: url('./custom01.PNG'); */
+    background-repeat: no-repeat;
+    background-color: #1ae135;
+};
+
+.customNodeContainer .customNode {
+    background-color: #1a81e1;
+    color: rgb(240, 12, 12);
+    padding: 10;
+    height: 100px;
+}
